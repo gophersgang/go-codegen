@@ -448,7 +448,7 @@ The main purpose is reading / learning / teaching.
   - https://github.com/hheld/xsd2code
   - https://github.com/droyo/go-xml
   - https://github.com/gnewton/chidley
-  https://github.com/metaleap/go-xsd
+  - https://github.com/metaleap/go-xsd
 
 ### Links
   - [Matt​ Sherman​ demonstrates type-driven code generation for Go](https://www.youtube.com/watch?v=KY8OXFi3CDU)
