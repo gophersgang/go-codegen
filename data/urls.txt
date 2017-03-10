@@ -29,7 +29,9 @@ https://github.com/dpolansky/go-poet
 https://github.com/drone/sqlgen
 https://github.com/droyo/go-xml
 https://github.com/dshills/goschema
+https://github.com/dutchcoders/xmlgen
 https://github.com/equinux/graphql-go-generate
+https://github.com/erizocosmico/go-itergen
 https://github.com/ernestio/definition-mapper
 https://github.com/ernesto-jimenez/gogen
 https://github.com/essentialkaos/gomakegen
@@ -37,6 +39,7 @@ https://github.com/ewwwwwqm/jsonresp
 https://github.com/finalist736/dbrmodels
 https://github.com/fiorix/wsdl2go
 https://github.com/fjl/gencodec
+https://github.com/fpgeek/gofp
 https://github.com/ggaaooppeenngg/safemap
 https://github.com/glycerine/bambam
 https://github.com/gnewton/chidley
@@ -56,6 +59,7 @@ https://github.com/gojuno/tracegen
 https://github.com/golang-china/godocu
 https://github.com/gopherci/isfilegenerated
 https://github.com/hapoon/gendao
+https://github.com/hheld/xsd2code
 https://github.com/hwheinzen/stringl10n
 https://github.com/idubinskiy/schematyper
 https://github.com/isted/streetcrud
@@ -80,6 +84,7 @@ https://github.com/lifeibest/generate-struct
 https://github.com/marcusljx/grpcgen-go
 https://github.com/marcusljx/protoparse
 https://github.com/masterzen/simplexml
+https://github.com/maxsz/curry
 https://github.com/mcos/schemabuf
 https://github.com/meta-closure/go-jstr
 https://github.com/metaleap/go-xsd
@@ -93,6 +98,7 @@ https://github.com/mustafaakin/gopqgen
 https://github.com/nullstyle/go-codegen
 https://github.com/ooesili/hatch
 https://github.com/openregister/serializer
+https://github.com/pallat/godx
 https://github.com/paulsmith/enums
 https://github.com/perelandric/golific
 https://github.com/peterhellberg/hiro
