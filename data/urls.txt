@@ -24,6 +24,7 @@ https://github.com/clipperhouse/gen
 https://github.com/cloudflare/goser
 https://github.com/commondream/yamlast
 https://github.com/compasses/mockxserver
+https://github.com/dameleon/structr
 https://github.com/doozer-de/restgen
 https://github.com/dpolansky/go-poet
 https://github.com/drone/sqlgen

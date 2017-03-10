@@ -46,6 +46,7 @@ The main purpose is reading / learning / teaching.
 - [cloudflare/goser](https://github.com/cloudflare/goser) - Code for talk about Go Serialization <br/> ( 2015-04-27 / 26 commits / 8 stars )
 - [commondream/yamlast](https://github.com/commondream/yamlast) - A library to generate ASTs from YAML files. <br/> ( 2016-05-29 / 8 commits / 0 stars )
 - [compasses/mockxserver](https://github.com/compasses/mockxserver) - MockServer, HTTP(s) Proxy, API record, JSON server, Customer driven test - PACT record generate, <br/> ( 2016-12-19 / 21 commits / 0 stars )
+- [dameleon/structr](https://github.com/dameleon/structr) - A code generator like a structure definition from JSON Schema <br/> ( 2016-11-15 / 136 commits / 0 stars )
 - [doozer-de/restgen](https://github.com/doozer-de/restgen) - Generate REST Servers and Clients based on GRPC Service definitions <br/> ( 2017-03-10 / 10 commits / 1 stars )
 - [dpolansky/go-poet](https://github.com/dpolansky/go-poet) - A Go package for generating Go code <br/> ( 2017-02-26 / 82 commits / 7 stars )
 - [drone/sqlgen](https://github.com/drone/sqlgen) - Go tool for generating sql scanners, sql statements and other helper functions <br/> ( 2015-09-12 / 19 commits / 9 stars )
@@ -236,6 +237,7 @@ The main purpose is reading / learning / teaching.
 - [sheenobu/rxgen](https://github.com/sheenobu/rxgen): 2016-11-26 <br/> typewriter for generating reactive code
 - [peterhellberg/hiro](https://github.com/peterhellberg/hiro): 2016-11-24 <br/> Generates HTML from API Blueprints using the Snow Crash command line tool Drafter and Iglo.
 - [phonkee/go-xmlrpc](https://github.com/phonkee/go-xmlrpc): 2016-11-22 <br/> Golang support for xml rpc using go generate (generate static parser)
+- [dameleon/structr](https://github.com/dameleon/structr): 2016-11-15 <br/> A code generator like a structure definition from JSON Schema
 - [uno-soft/soap-proxy](https://github.com/uno-soft/soap-proxy): 2016-11-09 <br/> gRPC - SOAP proxy in Go, and protoc-gen-wsdl to generate WSDL from .proto file
 - [chimeracoder/gojson](https://github.com/chimeracoder/gojson): 2016-11-07 <br/> Automatically generate Go (golang) struct definitions from example JSON
 - [finalist736/dbrmodels](https://github.com/finalist736/dbrmodels): 2016-11-06 <br/> generate data model struct for gocraft/dbr
@@ -310,6 +312,7 @@ The main purpose is reading / learning / teaching.
 - [jeroiraz/swagger-openwhisk](https://github.com/jeroiraz/swagger-openwhisk): 18.52 MB<br/>  (7.35 MB git / 11.17 MB code)
 - [gojuno/tracegen](https://github.com/gojuno/tracegen): 14.64 MB<br/>  (3.36 MB git / 11.29 MB code)
 - [adams-sarah/test2doc](https://github.com/adams-sarah/test2doc): 6.80 MB<br/>  (6.75 MB git / 0.05 MB code)
+- [dameleon/structr](https://github.com/dameleon/structr): 6.09 MB<br/>  (6.04 MB git / 0.06 MB code)
 - [vattle/sqlboiler](https://github.com/vattle/sqlboiler): 5.34 MB<br/>  (4.78 MB git / 0.56 MB code)
 - [sudorandom/softlayer-go-gen](https://github.com/sudorandom/softlayer-go-gen): 5.02 MB<br/>  (1.31 MB git / 3.71 MB code)
 - [clipperhouse/gen](https://github.com/clipperhouse/gen): 4.42 MB<br/>  (4.38 MB git / 0.04 MB code)
@@ -375,8 +378,8 @@ The main purpose is reading / learning / teaching.
 - [cloudflare/goser](https://github.com/cloudflare/goser): 0.12 MB<br/>  (0.08 MB git / 0.05 MB code)
 - [wantedly/pq2gorm](https://github.com/wantedly/pq2gorm): 0.12 MB<br/>  (0.10 MB git / 0.02 MB code)
 - [jonbodner/gdb](https://github.com/jonbodner/gdb): 0.12 MB<br/>  (0.08 MB git / 0.04 MB code)
-- [hwheinzen/stringl10n](https://github.com/hwheinzen/stringl10n): 0.12 MB<br/>  (0.07 MB git / 0.05 MB code)
 - [tchssk/ago](https://github.com/tchssk/ago): 0.12 MB<br/>  (0.05 MB git / 0.07 MB code)
+- [hwheinzen/stringl10n](https://github.com/hwheinzen/stringl10n): 0.12 MB<br/>  (0.07 MB git / 0.05 MB code)
 - [achiku/dgw](https://github.com/achiku/dgw): 0.12 MB<br/>  (0.07 MB git / 0.04 MB code)
 - [drone/sqlgen](https://github.com/drone/sqlgen): 0.11 MB<br/>  (0.05 MB git / 0.06 MB code)
 - [erizocosmico/go-itergen](https://github.com/erizocosmico/go-itergen): 0.10 MB<br/>  (0.06 MB git / 0.04 MB code)
@@ -408,8 +411,8 @@ The main purpose is reading / learning / teaching.
 - [senseijack/apiparser](https://github.com/senseijack/apiparser): 0.06 MB<br/>  (0.04 MB git / 0.02 MB code)
 - [centimitr/namespace](https://github.com/centimitr/namespace): 0.06 MB<br/>  (0.04 MB git / 0.02 MB code)
 - [essentialkaos/gomakegen](https://github.com/essentialkaos/gomakegen): 0.06 MB<br/>  (0.03 MB git / 0.03 MB code)
-- [chrislonng/dbr](https://github.com/chrislonng/dbr): 0.06 MB<br/>  (0.04 MB git / 0.01 MB code)
 - [hheld/xsd2code](https://github.com/hheld/xsd2code): 0.06 MB<br/>  (0.04 MB git / 0.02 MB code)
+- [chrislonng/dbr](https://github.com/chrislonng/dbr): 0.06 MB<br/>  (0.04 MB git / 0.01 MB code)
 - [peterhellberg/hiro](https://github.com/peterhellberg/hiro): 0.06 MB<br/>  (0.04 MB git / 0.01 MB code)
 - [hapoon/gendao](https://github.com/hapoon/gendao): 0.05 MB<br/>  (0.03 MB git / 0.02 MB code)
 - [jaybeecave/scaffold](https://github.com/jaybeecave/scaffold): 0.05 MB<br/>  (0.04 MB git / 0.02 MB code)
