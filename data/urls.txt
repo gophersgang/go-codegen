@@ -10,6 +10,7 @@ https://github.com/arstd/yan
 https://github.com/art4711/avlgen
 https://github.com/aseure/pop
 https://github.com/aurelien-rainone/gotypes
+https://github.com/ayiga/go-kit-middlewarer
 https://github.com/beevik/etree
 https://github.com/betacraft/yaag
 https://github.com/blevein/graphql-gen-go
