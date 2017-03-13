@@ -32,7 +32,7 @@ The main purpose is reading / learning / teaching.
 - [art4711/avlgen](https://github.com/art4711/avlgen) - Who needs generics when you have go generate. <br/> ( 2016-12-07 / 81 commits / 0 stars )
 - [aseure/pop](https://github.com/aseure/pop) - :corn: Generate directories and files in Go as quickly as making pop corn :corn: <br/> ( 2016-12-28 / 21 commits / 1 stars )
 - [aurelien-rainone/gotypes](https://github.com/aurelien-rainone/gotypes) - Automatically generate Go code from Go structures <br/> ( 2016-07-26 / 4 commits / 0 stars )
-- [ayiga/go-kit-middlewarer](https://github.com/ayiga/go-kit-middlewarer) - A utility for generating layers for the go-kit framework <br/> ( 2017-02-19 / 64 commits / 3 stars )
+- [ayiga/go-kit-middlewarer](https://github.com/ayiga/go-kit-middlewarer) - A utility for generating layers for the go-kit framework <br/> ( 2017-02-19 / 64 commits / 4 stars )
 - [beevik/etree](https://github.com/beevik/etree) - parse and generate XML easily in go <br/> ( 2017-02-11 / 104 commits / 20 stars )
 - [betacraft/yaag](https://github.com/betacraft/yaag) - Yet Another ApiDoc Generator (for Golang web apps) <br/> ( 2017-02-01 / 139 commits / 19 stars )
 - [blevein/graphql-gen-go](https://github.com/blevein/graphql-gen-go) - Generate graphql golang boiler-plate code from graphql schema. <br/> ( 2017-01-23 / 1 commits / 0 stars )
@@ -48,6 +48,8 @@ The main purpose is reading / learning / teaching.
 - [commondream/yamlast](https://github.com/commondream/yamlast) - A library to generate ASTs from YAML files. <br/> ( 2016-05-29 / 8 commits / 0 stars )
 - [compasses/mockxserver](https://github.com/compasses/mockxserver) - MockServer, HTTP(s) Proxy, API record, JSON server, Customer driven test - PACT record generate, <br/> ( 2016-12-19 / 21 commits / 0 stars )
 - [dameleon/structr](https://github.com/dameleon/structr) - A code generator like a structure definition from JSON Schema <br/> ( 2016-11-15 / 136 commits / 0 stars )
+- [dave/jennifer](https://github.com/dave/jennifer) - Jennifer is a code generator for go <br/> ( 2017-03-13 / 151 commits / 11 stars )
+- [dave/rebecca](https://github.com/dave/rebecca) - Rebecca is a readme generator for Go <br/> ( 2017-03-12 / 22 commits / 0 stars )
 - [doozer-de/restgen](https://github.com/doozer-de/restgen) - Generate REST Servers and Clients based on GRPC Service definitions <br/> ( 2017-03-10 / 10 commits / 1 stars )
 - [dpolansky/go-poet](https://github.com/dpolansky/go-poet) - A Go package for generating Go code <br/> ( 2017-02-26 / 82 commits / 7 stars )
 - [drone/sqlgen](https://github.com/drone/sqlgen) - Go tool for generating sql scanners, sql statements and other helper functions <br/> ( 2015-09-12 / 19 commits / 9 stars )
@@ -70,7 +72,7 @@ The main purpose is reading / learning / teaching.
 - [go-bootstrap/go-bootstrap](https://github.com/go-bootstrap/go-bootstrap) - Generates a lean and mean Go web project. <br/> ( 2017-03-01 / 115 commits / 79 stars )
 - [go-gl/glow](https://github.com/go-gl/glow) - Go binding generator for OpenGL <br/> ( 2016-03-06 / 223 commits / 7 stars )
 - [go-playground/generate](https://github.com/go-playground/generate) - :runner:runs go generate recursively on a specified path or environment variable and can filter by regex <br/> ( 2017-01-10 / 13 commits / 2 stars )
-- [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go <br/> ( 2017-03-12 / 1,765 commits / 230 stars )
+- [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go <br/> ( 2017-03-12 / 1,765 commits / 231 stars )
 - [go-zero-boilerplate/api-resources](https://github.com/go-zero-boilerplate/api-resources) - Generic api-resources package to abstract all API Restful Resources generic logic <br/> ( 2017-02-14 / 14 commits / 0 stars )
 - [go-zero-boilerplate/databases](https://github.com/go-zero-boilerplate/databases) - Contains common golang database boilerplate code like a paginator, sql builders and statements, abstraction of dialects <br/> ( 2016-05-14 / 14 commits / 0 stars )
 - [go-zero-boilerplate/gensql](https://github.com/go-zero-boilerplate/gensql) - SQL generator for golang (generating static go code instead of using reflection) <br/> ( 2016-10-28 / 25 commits / 0 stars )
@@ -78,7 +80,7 @@ The main purpose is reading / learning / teaching.
 - [goadesign/goa](https://github.com/goadesign/goa) - Design-based APIs and microservices in Go <br/> ( 2017-03-09 / 1,348 commits / 158 stars )
 - [gogo/letmegrpc](https://github.com/gogo/letmegrpc) - generates a web form gui from a grpc specification <br/> ( 2017-02-26 / 84 commits / 11 stars )
 - [gogo/protobuf](https://github.com/gogo/protobuf) - Protocol Buffers for Go with Gadgets <br/> ( 2017-03-07 / 748 commits / 111 stars )
-- [gojuno/minimock](https://github.com/gojuno/minimock) - Generates flexible mocks from interfaces declarations <br/> ( 2017-03-10 / 23 commits / 1 stars )
+- [gojuno/minimock](https://github.com/gojuno/minimock) - Generates flexible mocks from interfaces declarations <br/> ( 2017-03-13 / 24 commits / 1 stars )
 - [gojuno/tracegen](https://github.com/gojuno/tracegen) - Simple tool to generate opentracing decorators <br/> ( 2017-03-08 / 4 commits / 1 stars )
 - [golang-china/godocu](https://github.com/golang-china/godocu) - Godocu extracts and generates documentation for Go programs. <br/> ( 2016-09-06 / 42 commits / 1 stars )
 - [gopherci/isfilegenerated](https://github.com/gopherci/isfilegenerated) - Determines if a file is generated or hand crafted. <br/> ( 2017-02-24 / 2 commits / 0 stars )
@@ -87,7 +89,7 @@ The main purpose is reading / learning / teaching.
 - [hwheinzen/stringl10n](https://github.com/hwheinzen/stringl10n) - Simple string localization via go:generate and text/template <br/> ( 2016-04-21 / 32 commits / 0 stars )
 - [idubinskiy/schematyper](https://github.com/idubinskiy/schematyper) - Generates Go types based on JSON Schemas <br/> ( 2017-02-06 / 25 commits / 4 stars )
 - [isted/streetcrud](https://github.com/isted/streetcrud) - Go (Golang) code and table generator for CRUD functionality <br/> ( 2016-03-23 / 25 commits / 3 stars )
-- [ivarg/goxsd](https://github.com/ivarg/goxsd) - Generate XML decoding structs from an XSD schema <br/> ( 2016-07-20 / 55 commits / 8 stars )
+- [ivarg/goxsd](https://github.com/ivarg/goxsd) - Generate XML decoding structs from an XSD schema <br/> ( 2016-07-20 / 55 commits / 10 stars )
 - [jaybeecave/scaffold](https://github.com/jaybeecave/scaffold) - A scaffolding cli app for generating models, migrations and restful interfaces. Uses golang templates for customization <br/> ( 2017-02-21 / 6 commits / 0 stars )
 - [jeroiraz/swagger-openwhisk](https://github.com/jeroiraz/swagger-openwhisk) - This simple tool aims to generate a fully functional whisk package and actions from a swagger specification <br/> ( 2016-08-03 / 13 commits / 0 stars )
 - [joeshaw/gengen](https://github.com/joeshaw/gengen) - A Go source transformation tool for generics <br/> ( 2016-01-25 / 16 commits / 10 stars )
@@ -101,7 +103,7 @@ The main purpose is reading / learning / teaching.
 - [knetic/marsalo](https://github.com/knetic/marsalo) - Convenience library for unmarshalling HTTP request/response bodies from XML or JSON <br/> ( 2016-01-24 / 12 commits / 0 stars )
 - [knetic/presilo](https://github.com/knetic/presilo) - Generates code for many languages from a single schema <br/> ( 2016-03-16 / 154 commits / 0 stars )
 - [knetic/presiloexecutable](https://github.com/knetic/presiloexecutable) - The canonical executable implementation of presilo schema parsing/codegen library <br/> ( 2016-01-30 / 7 commits / 0 stars )
-- [knq/xo](https://github.com/knq/xo) - Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server <br/> ( 2017-03-08 / 175 commits / 70 stars )
+- [knq/xo](https://github.com/knq/xo) - Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server <br/> ( 2017-03-08 / 175 commits / 71 stars )
 - [kyleconroy/antlrs](https://github.com/kyleconroy/antlrs) - Various generated lexers and parsers <br/> ( 2017-01-02 / 4 commits / 0 stars )
 - [leviathan1995/dbsl](https://github.com/leviathan1995/dbsl) - dbsl is a simple tool for generating data with golang. <br/> ( 2016-09-20 / 10 commits / 1 stars )
 - [lifeibest/generate-struct](https://github.com/lifeibest/generate-struct) - generate struct from mysql table for golang, a small userful tool <br/> ( 2016-12-30 / 8 commits / 0 stars )
@@ -119,6 +121,7 @@ The main purpose is reading / learning / teaching.
 - [moul/kafka-gateway/](https://github.com/moul/kafka-gateway/) - :ocean: Kafka Gateway (gRPC/protobuf + http/json) <br/> ( 2017-01-11 / 24 commits / 2 stars )
 - [moul/protoc-gen-gotemplate](https://github.com/moul/protoc-gen-gotemplate) - :open_file_folder: protocol generator + golang text/template (protobuf) <br/> ( 2017-02-11 / 141 commits / 5 stars )
 - [mustafaakin/gopqgen](https://github.com/mustafaakin/gopqgen) - Generates the Go structs and getters/setters for PostgreSQL Database <br/> ( 2017-02-12 / 12 commits / 0 stars )
+- [nicolai86/go-contentful-generator](https://github.com/nicolai86/go-contentful-generator) - A client SDK generator for contentful <br/> ( 2017-03-12 / 27 commits / 1 stars )
 - [nullstyle/go-codegen](https://github.com/nullstyle/go-codegen) - Stupid, simple code generation tool for go <br/> ( 2016-07-06 / 21 commits / 1 stars )
 - [ooesili/hatch](https://github.com/ooesili/hatch) - Type safe, generated factories for Go programs <br/> ( 2016-06-03 / 4 commits / 0 stars )
 - [openregister/serializer](https://github.com/openregister/serializer) - Script to generate serialised register from items in various formats <br/> ( 2017-02-03 / 36 commits / 0 stars )
@@ -161,12 +164,15 @@ The main purpose is reading / learning / teaching.
 
 ### By Activity
 <!-- ACTIVITY_LIST -->
+- [gojuno/minimock](https://github.com/gojuno/minimock): 2017-03-13 <br/> Generates flexible mocks from interfaces declarations
+- [dave/jennifer](https://github.com/dave/jennifer): 2017-03-13 <br/> Jennifer is a code generator for go
+- [dave/rebecca](https://github.com/dave/rebecca): 2017-03-12 <br/> Rebecca is a readme generator for Go
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger): 2017-03-12 <br/> Swagger 2.0 implementation for go
 - [midlang/mid](https://github.com/midlang/mid): 2017-03-12 <br/> mid is a middle language for generating other languages(c++/go/rust/swift/java/js...)
 - [essentialkaos/gomakegen](https://github.com/essentialkaos/gomakegen): 2017-03-12 <br/> Utility for generating makefiles for golang applications
+- [nicolai86/go-contentful-generator](https://github.com/nicolai86/go-contentful-generator): 2017-03-12 <br/> A client SDK generator for contentful
 - [doozer-de/restgen](https://github.com/doozer-de/restgen): 2017-03-10 <br/> Generate REST Servers and Clients based on GRPC Service definitions
 - [juju/schemagen](https://github.com/juju/schemagen): 2017-03-10 <br/> Generates a JSON schema for the Juju API
-- [gojuno/minimock](https://github.com/gojuno/minimock): 2017-03-10 <br/> Generates flexible mocks from interfaces declarations
 - [sharonjl/flint](https://github.com/sharonjl/flint): 2017-03-10 <br/> auto generate service and model accessors from spec
 - [alanctgardner/gogen-avro](https://github.com/alanctgardner/gogen-avro): 2017-03-09 <br/> Generate Go code to serialize and deserialize Avro schemas
 - [goadesign/goa](https://github.com/goadesign/goa): 2017-03-09 <br/> Design-based APIs and microservices in Go
@@ -307,7 +313,7 @@ The main purpose is reading / learning / teaching.
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger): 63.51 MB<br/>  (30.45 MB git / 33.06 MB code)
 - [gogo/protobuf](https://github.com/gogo/protobuf): 43.10 MB<br/>  (21.10 MB git / 22.00 MB code)
 - [moul/kafka-gateway](https://github.com/moul/kafka-gateway): 40.51 MB<br/>  (7.13 MB git / 33.38 MB code)
-- [goadesign/goa](https://github.com/goadesign/goa): 32.62 MB<br/>  (31.46 MB git / 1.16 MB code)
+- [goadesign/goa](https://github.com/goadesign/goa): 32.66 MB<br/>  (31.50 MB git / 1.16 MB code)
 - [betacraft/yaag](https://github.com/betacraft/yaag): 20.16 MB<br/>  (19.72 MB git / 0.44 MB code)
 - [go-gl/glow](https://github.com/go-gl/glow): 18.73 MB<br/>  (10.38 MB git / 8.35 MB code)
 - [unknwon/gowalker](https://github.com/unknwon/gowalker): 18.64 MB<br/>  (16.12 MB git / 2.52 MB code)
@@ -344,6 +350,7 @@ The main purpose is reading / learning / teaching.
 - [relops/cqlc](https://github.com/relops/cqlc): 0.53 MB<br/>  (0.36 MB git / 0.17 MB code)
 - [chimeracoder/gojson](https://github.com/chimeracoder/gojson): 0.51 MB<br/>  (0.18 MB git / 0.33 MB code)
 - [src-d/proteus](https://github.com/src-d/proteus): 0.46 MB<br/>  (0.23 MB git / 0.23 MB code)
+- [dave/jennifer](https://github.com/dave/jennifer): 0.46 MB<br/>  (0.32 MB git / 0.14 MB code)
 - [alanctgardner/gogen-avro](https://github.com/alanctgardner/gogen-avro): 0.45 MB<br/>  (0.29 MB git / 0.16 MB code)
 - [quarnster/parser](https://github.com/quarnster/parser): 0.40 MB<br/>  (0.23 MB git / 0.18 MB code)
 - [abice/gencheck](https://github.com/abice/gencheck): 0.39 MB<br/>  (0.18 MB git / 0.21 MB code)
@@ -371,6 +378,7 @@ The main purpose is reading / learning / teaching.
 - [isted/streetcrud](https://github.com/isted/streetcrud): 0.15 MB<br/>  (0.07 MB git / 0.08 MB code)
 - [mustafaakin/gopqgen](https://github.com/mustafaakin/gopqgen): 0.15 MB<br/>  (0.07 MB git / 0.07 MB code)
 - [mikunalpha/mswagger](https://github.com/mikunalpha/mswagger): 0.14 MB<br/>  (0.10 MB git / 0.05 MB code)
+- [nicolai86/go-contentful-generator](https://github.com/nicolai86/go-contentful-generator): 0.14 MB<br/>  (0.09 MB git / 0.05 MB code)
 - [zencoder/gokay](https://github.com/zencoder/gokay): 0.14 MB<br/>  (0.07 MB git / 0.07 MB code)
 - [cihangir/geneddl](https://github.com/cihangir/geneddl): 0.14 MB<br/>  (0.09 MB git / 0.05 MB code)
 - [cheekybits/genny](https://github.com/cheekybits/genny): 0.13 MB<br/>  (0.09 MB git / 0.04 MB code)
@@ -393,9 +401,9 @@ The main purpose is reading / learning / teaching.
 - [r3labs/composable](https://github.com/r3labs/composable): 0.10 MB<br/>  (0.06 MB git / 0.04 MB code)
 - [wicast/xj2s](https://github.com/wicast/xj2s): 0.10 MB<br/>  (0.05 MB git / 0.04 MB code)
 - [a-h/generate](https://github.com/a-h/generate): 0.09 MB<br/>  (0.05 MB git / 0.04 MB code)
+- [gojuno/minimock](https://github.com/gojuno/minimock): 0.09 MB<br/>  (0.08 MB git / 0.01 MB code)
 - [essentialkaos/gomakegen](https://github.com/essentialkaos/gomakegen): 0.09 MB<br/>  (0.06 MB git / 0.03 MB code)
 - [sheenobu/rxgen](https://github.com/sheenobu/rxgen): 0.09 MB<br/>  (0.06 MB git / 0.03 MB code)
-- [gojuno/minimock](https://github.com/gojuno/minimock): 0.09 MB<br/>  (0.08 MB git / 0.01 MB code)
 - [knetic/etymu](https://github.com/knetic/etymu): 0.08 MB<br/>  (0.05 MB git / 0.03 MB code)
 - [mcos/schemabuf](https://github.com/mcos/schemabuf): 0.08 MB<br/>  (0.06 MB git / 0.01 MB code)
 - [juju/schemagen](https://github.com/juju/schemagen): 0.08 MB<br/>  (0.04 MB git / 0.04 MB code)
@@ -408,6 +416,7 @@ The main purpose is reading / learning / teaching.
 - [marcusljx/protoparse](https://github.com/marcusljx/protoparse): 0.07 MB<br/>  (0.03 MB git / 0.04 MB code)
 - [uno-soft/soap-proxy](https://github.com/uno-soft/soap-proxy): 0.07 MB<br/>  (0.05 MB git / 0.02 MB code)
 - [pjherring/mysql-gen](https://github.com/pjherring/mysql-gen): 0.07 MB<br/>  (0.05 MB git / 0.02 MB code)
+- [dave/rebecca](https://github.com/dave/rebecca): 0.06 MB<br/>  (0.05 MB git / 0.01 MB code)
 - [wpj/fsql](https://github.com/wpj/fsql): 0.06 MB<br/>  (0.04 MB git / 0.03 MB code)
 - [nullstyle/go-codegen](https://github.com/nullstyle/go-codegen): 0.06 MB<br/>  (0.05 MB git / 0.02 MB code)
 - [finalist736/dbrmodels](https://github.com/finalist736/dbrmodels): 0.06 MB<br/>  (0.05 MB git / 0.01 MB code)
@@ -441,6 +450,9 @@ The main purpose is reading / learning / teaching.
 - [gopherci/isfilegenerated](https://github.com/gopherci/isfilegenerated): 0.02 MB<br/>  (0.02 MB git / 0.00 MB code)
 <!-- /SIZE_LIST -->
 
+
+### Generics / Types
+  - http://alikewise.com/gen/#
 
 ### Protobuffers / GRPC
   - https://github.com/moul/protoc-gen-gotemplate

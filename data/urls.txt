@@ -26,6 +26,8 @@ https://github.com/cloudflare/goser
 https://github.com/commondream/yamlast
 https://github.com/compasses/mockxserver
 https://github.com/dameleon/structr
+https://github.com/dave/jennifer
+https://github.com/dave/rebecca
 https://github.com/doozer-de/restgen
 https://github.com/dpolansky/go-poet
 https://github.com/drone/sqlgen
@@ -97,6 +99,7 @@ https://github.com/mjolk/gormgen
 https://github.com/moul/kafka-gateway/
 https://github.com/moul/protoc-gen-gotemplate
 https://github.com/mustafaakin/gopqgen
+https://github.com/nicolai86/go-contentful-generator
 https://github.com/nullstyle/go-codegen
 https://github.com/ooesili/hatch
 https://github.com/openregister/serializer
