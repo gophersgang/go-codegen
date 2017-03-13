@@ -186,7 +186,7 @@ The main purpose is reading / learning / teaching.
 - [go-bootstrap/go-bootstrap](https://github.com/go-bootstrap/go-bootstrap): 2017-03-01 <br/> Generates a lean and mean Go web project.
 - [schemalex/schemalex](https://github.com/schemalex/schemalex): 2017-03-01 <br/> Generate difference sql of two mysql schema
 - [aaharu/schemarshal](https://github.com/aaharu/schemarshal): 2017-02-28 <br/> Generates Go struct types from a JSON Schema.
-- [bopbi/rosettajson](https://github.com/bopbi/rosettajson): 2017-02-28 <br/> This toolkit generate Json Localizable strings file from XLSX format for language translation 
+- [bopbi/rosettajson](https://github.com/bopbi/rosettajson): 2017-02-28 <br/> This toolkit generate Json Localizable strings file from XLSX format for language translation
 - [a-h/generate](https://github.com/a-h/generate): 2017-02-27 <br/> Generates Go (golang) Structs from JSON schema.
 - [equinux/graphql-go-generate](https://github.com/equinux/graphql-go-generate): 2017-02-27 <br/> Extract and generate GraphQL schema definitions from Go structs.
 - [gogo/letmegrpc](https://github.com/gogo/letmegrpc): 2017-02-26 <br/> generates a web form gui from a grpc specification
@@ -441,6 +441,10 @@ The main purpose is reading / learning / teaching.
 - [gopherci/isfilegenerated](https://github.com/gopherci/isfilegenerated): 0.02 MB<br/>  (0.02 MB git / 0.00 MB code)
 <!-- /SIZE_LIST -->
 
+
+### Protobuffers / GRPC
+  - https://github.com/moul/protoc-gen-gotemplate
+  - https://www.slideshare.net/manfredtouron/protobuf-code-generation-gokit
 
 ### Generated Clients
   - https://github.com/sudorandom/softlayer-go-gen
