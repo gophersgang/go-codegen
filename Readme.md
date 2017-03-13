@@ -58,7 +58,7 @@ The main purpose is reading / learning / teaching.
 - [dutchcoders/xmlgen](https://github.com/dutchcoders/xmlgen) - XMLGen is a tool for generating native Golang types from XML. <br/> ( 2016-01-29 / 4 commits / 10 stars )
 - [equinux/graphql-go-generate](https://github.com/equinux/graphql-go-generate) - Extract and generate GraphQL schema definitions from Go structs. <br/> ( 2017-02-27 / 5 commits / 0 stars )
 - [erizocosmico/go-itergen](https://github.com/erizocosmico/go-itergen) - Code generation tool for Go that generates common functions for iterable types such as map and filter for slices and channels. <br/> ( 2016-01-10 / 35 commits / 7 stars )
-- [ernestio/definition-mapper](https://github.com/ernestio/definition-mapper) - Validates the input yaml definition and generates a workflow and service definition. <br/> ( 2017-03-02 / 56 commits / 0 stars )
+- [ernestio/definition-mapper](https://github.com/ernestio/definition-mapper) - Validates the input yaml definition and generates a workflow and service definition. <br/> ( 2017-03-13 / 69 commits / 0 stars )
 - [ernesto-jimenez/gogen](https://github.com/ernesto-jimenez/gogen) - A set of go packages and command line tools to generate Go code <br/> ( 2017-02-06 / 45 commits / 7 stars )
 - [essentialkaos/gomakegen](https://github.com/essentialkaos/gomakegen) - Utility for generating makefiles for golang applications <br/> ( 2017-03-12 / 18 commits / 0 stars )
 - [ewwwwwqm/jsonresp](https://github.com/ewwwwwqm/jsonresp) - Package for generating JSON output from structs <br/> ( 2017-01-17 / 7 commits / 0 stars )
@@ -121,7 +121,7 @@ The main purpose is reading / learning / teaching.
 - [moul/kafka-gateway/](https://github.com/moul/kafka-gateway/) - :ocean: Kafka Gateway (gRPC/protobuf + http/json) <br/> ( 2017-01-11 / 24 commits / 2 stars )
 - [moul/protoc-gen-gotemplate](https://github.com/moul/protoc-gen-gotemplate) - :open_file_folder: protocol generator + golang text/template (protobuf) <br/> ( 2017-02-11 / 141 commits / 5 stars )
 - [mustafaakin/gopqgen](https://github.com/mustafaakin/gopqgen) - Generates the Go structs and getters/setters for PostgreSQL Database <br/> ( 2017-02-12 / 12 commits / 0 stars )
-- [nicolai86/go-contentful-generator](https://github.com/nicolai86/go-contentful-generator) - A client SDK generator for contentful <br/> ( 2017-03-12 / 27 commits / 1 stars )
+- [nicolai86/go-contentful-generator](https://github.com/nicolai86/go-contentful-generator) - A client SDK generator for contentful <br/> ( 2017-03-13 / 32 commits / 1 stars )
 - [nullstyle/go-codegen](https://github.com/nullstyle/go-codegen) - Stupid, simple code generation tool for go <br/> ( 2016-07-06 / 21 commits / 1 stars )
 - [ooesili/hatch](https://github.com/ooesili/hatch) - Type safe, generated factories for Go programs <br/> ( 2016-06-03 / 4 commits / 0 stars )
 - [openregister/serializer](https://github.com/openregister/serializer) - Script to generate serialised register from items in various formats <br/> ( 2017-02-03 / 36 commits / 0 stars )
@@ -164,13 +164,14 @@ The main purpose is reading / learning / teaching.
 
 ### By Activity
 <!-- ACTIVITY_LIST -->
+- [nicolai86/go-contentful-generator](https://github.com/nicolai86/go-contentful-generator): 2017-03-13 <br/> A client SDK generator for contentful
+- [ernestio/definition-mapper](https://github.com/ernestio/definition-mapper): 2017-03-13 <br/> Validates the input yaml definition and generates a workflow and service definition.
 - [gojuno/minimock](https://github.com/gojuno/minimock): 2017-03-13 <br/> Generates flexible mocks from interfaces declarations
 - [dave/jennifer](https://github.com/dave/jennifer): 2017-03-13 <br/> Jennifer is a code generator for go
 - [dave/rebecca](https://github.com/dave/rebecca): 2017-03-12 <br/> Rebecca is a readme generator for Go
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger): 2017-03-12 <br/> Swagger 2.0 implementation for go
 - [midlang/mid](https://github.com/midlang/mid): 2017-03-12 <br/> mid is a middle language for generating other languages(c++/go/rust/swift/java/js...)
 - [essentialkaos/gomakegen](https://github.com/essentialkaos/gomakegen): 2017-03-12 <br/> Utility for generating makefiles for golang applications
-- [nicolai86/go-contentful-generator](https://github.com/nicolai86/go-contentful-generator): 2017-03-12 <br/> A client SDK generator for contentful
 - [doozer-de/restgen](https://github.com/doozer-de/restgen): 2017-03-10 <br/> Generate REST Servers and Clients based on GRPC Service definitions
 - [juju/schemagen](https://github.com/juju/schemagen): 2017-03-10 <br/> Generates a JSON schema for the Juju API
 - [sharonjl/flint](https://github.com/sharonjl/flint): 2017-03-10 <br/> auto generate service and model accessors from spec
@@ -187,12 +188,11 @@ The main purpose is reading / learning / teaching.
 - [tmrts/boilr](https://github.com/tmrts/boilr): 2017-03-04 <br/> :zap: boilerplate template manager that generates files or directories from template repositories
 - [hapoon/gendao](https://github.com/hapoon/gendao): 2017-03-03 <br/> generate dao code from database
 - [jonathankentstevens/build-proto](https://github.com/jonathankentstevens/build-proto): 2017-03-02 <br/> Command line tool to generate client & server implementation with your pb stub for gRPC
-- [ernestio/definition-mapper](https://github.com/ernestio/definition-mapper): 2017-03-02 <br/> Validates the input yaml definition and generates a workflow and service definition.
 - [droyo/go-xml](https://github.com/droyo/go-xml): 2017-03-02 <br/> utility and code-generation libraries for XML
 - [go-bootstrap/go-bootstrap](https://github.com/go-bootstrap/go-bootstrap): 2017-03-01 <br/> Generates a lean and mean Go web project.
 - [schemalex/schemalex](https://github.com/schemalex/schemalex): 2017-03-01 <br/> Generate difference sql of two mysql schema
 - [aaharu/schemarshal](https://github.com/aaharu/schemarshal): 2017-02-28 <br/> Generates Go struct types from a JSON Schema.
-- [bopbi/rosettajson](https://github.com/bopbi/rosettajson): 2017-02-28 <br/> This toolkit generate Json Localizable strings file from XLSX format for language translation
+- [bopbi/rosettajson](https://github.com/bopbi/rosettajson): 2017-02-28 <br/> This toolkit generate Json Localizable strings file from XLSX format for language translation 
 - [a-h/generate](https://github.com/a-h/generate): 2017-02-27 <br/> Generates Go (golang) Structs from JSON schema.
 - [equinux/graphql-go-generate](https://github.com/equinux/graphql-go-generate): 2017-02-27 <br/> Extract and generate GraphQL schema definitions from Go structs.
 - [gogo/letmegrpc](https://github.com/gogo/letmegrpc): 2017-02-26 <br/> generates a web form gui from a grpc specification
@@ -331,15 +331,15 @@ The main purpose is reading / learning / teaching.
 - [compasses/mockxserver](https://github.com/compasses/mockxserver): 3.00 MB<br/>  (2.87 MB git / 0.13 MB code)
 - [tmrts/boilr](https://github.com/tmrts/boilr): 2.98 MB<br/>  (1.55 MB git / 1.43 MB code)
 - [knq/xo](https://github.com/knq/xo): 2.77 MB<br/>  (1.04 MB git / 1.73 MB code)
+- [ernestio/definition-mapper](https://github.com/ernestio/definition-mapper): 2.25 MB<br/>  (2.09 MB git / 0.15 MB code)
 - [midlang/mid](https://github.com/midlang/mid): 2.19 MB<br/>  (1.04 MB git / 1.15 MB code)
 - [puerkitobio/pigeon](https://github.com/puerkitobio/pigeon): 2.18 MB<br/>  (1.62 MB git / 0.56 MB code)
-- [ernestio/definition-mapper](https://github.com/ernestio/definition-mapper): 2.11 MB<br/>  (2.08 MB git / 0.03 MB code)
 - [yvasiyarov/swagger](https://github.com/yvasiyarov/swagger): 1.98 MB<br/>  (1.34 MB git / 0.64 MB code)
 - [alvaroloes/enumer](https://github.com/alvaroloes/enumer): 1.88 MB<br/>  (1.82 MB git / 0.06 MB code)
 - [go-zero-boilerplate/gensql](https://github.com/go-zero-boilerplate/gensql): 1.46 MB<br/>  (0.28 MB git / 1.17 MB code)
 - [aseure/pop](https://github.com/aseure/pop): 1.26 MB<br/>  (0.64 MB git / 0.62 MB code)
 - [go-bootstrap/go-bootstrap](https://github.com/go-bootstrap/go-bootstrap): 1.23 MB<br/>  (0.42 MB git / 0.81 MB code)
-- [arstd/yan](https://github.com/arstd/yan): 1.14 MB<br/>  (0.39 MB git / 0.75 MB code)
+- [arstd/yan](https://github.com/arstd/yan): 1.15 MB<br/>  (0.40 MB git / 0.75 MB code)
 - [fjl/gencodec](https://github.com/fjl/gencodec): 0.98 MB<br/>  (0.18 MB git / 0.80 MB code)
 - [knetic/presilo](https://github.com/knetic/presilo): 0.93 MB<br/>  (0.80 MB git / 0.12 MB code)
 - [phonkee/go-xmlrpc](https://github.com/phonkee/go-xmlrpc): 0.70 MB<br/>  (0.65 MB git / 0.05 MB code)
@@ -368,6 +368,7 @@ The main purpose is reading / learning / teaching.
 - [kyleconroy/antlrs](https://github.com/kyleconroy/antlrs): 0.22 MB<br/>  (0.06 MB git / 0.16 MB code)
 - [beevik/etree](https://github.com/beevik/etree): 0.21 MB<br/>  (0.15 MB git / 0.06 MB code)
 - [jonbodner/proteus](https://github.com/jonbodner/proteus): 0.20 MB<br/>  (0.11 MB git / 0.09 MB code)
+- [nicolai86/go-contentful-generator](https://github.com/nicolai86/go-contentful-generator): 0.19 MB<br/>  (0.13 MB git / 0.05 MB code)
 - [dpolansky/go-poet](https://github.com/dpolansky/go-poet): 0.18 MB<br/>  (0.11 MB git / 0.07 MB code)
 - [bridgevine/wsdlgo](https://github.com/bridgevine/wsdlgo): 0.17 MB<br/>  (0.10 MB git / 0.07 MB code)
 - [sharonjl/flint](https://github.com/sharonjl/flint): 0.17 MB<br/>  (0.10 MB git / 0.08 MB code)
@@ -378,7 +379,6 @@ The main purpose is reading / learning / teaching.
 - [isted/streetcrud](https://github.com/isted/streetcrud): 0.15 MB<br/>  (0.07 MB git / 0.08 MB code)
 - [mustafaakin/gopqgen](https://github.com/mustafaakin/gopqgen): 0.15 MB<br/>  (0.07 MB git / 0.07 MB code)
 - [mikunalpha/mswagger](https://github.com/mikunalpha/mswagger): 0.14 MB<br/>  (0.10 MB git / 0.05 MB code)
-- [nicolai86/go-contentful-generator](https://github.com/nicolai86/go-contentful-generator): 0.14 MB<br/>  (0.09 MB git / 0.05 MB code)
 - [zencoder/gokay](https://github.com/zencoder/gokay): 0.14 MB<br/>  (0.07 MB git / 0.07 MB code)
 - [cihangir/geneddl](https://github.com/cihangir/geneddl): 0.14 MB<br/>  (0.09 MB git / 0.05 MB code)
 - [cheekybits/genny](https://github.com/cheekybits/genny): 0.13 MB<br/>  (0.09 MB git / 0.04 MB code)
