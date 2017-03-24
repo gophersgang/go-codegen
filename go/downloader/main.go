@@ -85,12 +85,24 @@ func (r *repo) checkout() error {
 
 // refresh existing repo
 func (r *repo) refresh() error {
+	r.toCorrectBranch()
 	fmt.Printf("refreshing %s\n", r.fullPath())
 	cmd := fmt.Sprintf("cd %s; git pull", r.fullPath())
-	out, err := exec.Command("sh", "-c", cmd).Output()
+	out, err := runCmd(cmd)
 	checkMsg(err, r.url)
 	fmt.Println(r.projectName(), "\n---\n", string(out))
 	return nil
+}
+
+func (r *repo) toCorrectBranch() error {
+	cmd := fmt.Sprintf("cd %s; git checkout master", r.fullPath())
+	_, err := runCmd(cmd)
+	return err
+}
+
+func runCmd(cmd string) (string, error) {
+	out, err := exec.Command("sh", "-c", cmd).Output()
+	return string(out), err
 }
 
 // does this project exist?
