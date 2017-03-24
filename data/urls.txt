@@ -85,6 +85,7 @@ https://github.com/knq/xo
 https://github.com/kyleconroy/antlrs
 https://github.com/leviathan1995/dbsl
 https://github.com/lifeibest/generate-struct
+https://github.com/lileio/lile
 https://github.com/marcusljx/grpcgen-go
 https://github.com/marcusljx/protoparse
 https://github.com/masterzen/simplexml
@@ -101,7 +102,6 @@ https://github.com/moul/protoc-gen-gotemplate
 https://github.com/mustafaakin/gopqgen
 https://github.com/nicolai86/go-contentful-generator
 https://github.com/nullstyle/go-codegen
-https://github.com/ooesili/hatch
 https://github.com/openregister/serializer
 https://github.com/pallat/godx
 https://github.com/paulsmith/enums
