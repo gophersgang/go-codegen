@@ -34,6 +34,7 @@ https://github.com/drone/sqlgen
 https://github.com/droyo/go-xml
 https://github.com/dshills/goschema
 https://github.com/dutchcoders/xmlgen
+https://github.com/emicklei/genika
 https://github.com/equinux/graphql-go-generate
 https://github.com/erizocosmico/go-itergen
 https://github.com/ernestio/definition-mapper
