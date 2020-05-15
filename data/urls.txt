@@ -19,11 +19,9 @@ https://github.com/bridgevine/wsdlgo
 https://github.com/centimitr/namespace
 https://github.com/cheekybits/genny
 https://github.com/chimeracoder/gojson
-https://github.com/chrislonng/dbr
 https://github.com/cihangir/geneddl
 https://github.com/clipperhouse/gen
 https://github.com/cloudflare/goser
-https://github.com/commondream/yamlast
 https://github.com/compasses/mockxserver
 https://github.com/dameleon/structr
 https://github.com/dave/jennifer
@@ -84,7 +82,6 @@ https://github.com/knetic/presilo
 https://github.com/knetic/presiloexecutable
 https://github.com/knq/xo
 https://github.com/kyleconroy/antlrs
-https://github.com/leviathan1995/dbsl
 https://github.com/lifeibest/generate-struct
 https://github.com/lileio/lile
 https://github.com/marcusljx/grpcgen-go
@@ -118,8 +115,6 @@ https://github.com/sasha-s/goimpl
 https://github.com/savaki/genpdf
 https://github.com/sbosnick/dibuilder
 https://github.com/schemalex/schemalex
-https://github.com/senseijack/apiparser
-https://github.com/sharonjl/flint
 https://github.com/sheenobu/rxgen
 https://github.com/sjhitchner/sqltype
 https://github.com/src-d/proteus
@@ -135,7 +130,6 @@ https://github.com/viktorasm/gontractor
 https://github.com/wantedly/pq2gorm
 https://github.com/wicast/xj2s
 https://github.com/wookesh/deepcopy
-https://github.com/wpj/fsql
 https://github.com/wxd237/xml2struct
 https://github.com/yvasiyarov/swagger
 https://github.com/zencoder/gokay
