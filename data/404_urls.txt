@@ -1,0 +1,6 @@
+https://github.com/chrislonng/dbr
+https://github.com/commondream/yamlast
+https://github.com/leviathan1995/dbsl
+https://github.com/senseijack/apiparser
+https://github.com/sharonjl/flint
+https://github.com/wpj/fsql
